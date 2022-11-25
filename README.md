@@ -1,4 +1,4 @@
-Site is live at *https://kseniiamarkiv.github.io/mod5_solution/*
+## Site is live at [GitHub Pages](https://kseniiamarkiv.github.io/mod5_solution/)
 
 
 # Module 5 Coding Assignment
